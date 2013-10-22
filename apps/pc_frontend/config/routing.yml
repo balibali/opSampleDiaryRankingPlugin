@@ -1,0 +1,3 @@
+diaryRanking:
+  url:   /diaryRanking
+  param: { module: diaryRanking, action: index }

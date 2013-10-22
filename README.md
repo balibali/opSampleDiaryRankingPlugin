@@ -1,0 +1,8 @@
+opSampleDiaryRankingPlugin
+==========================
+
+Requirements
+------------
+
+* opDiaryPlugin
+* opRedisPlugin
